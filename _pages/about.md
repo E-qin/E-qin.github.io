@@ -18,11 +18,11 @@ Education
 Publications
 ============
 
-<!-- * HyperBandit: Contextual Bandit with Hypernewtork for Time-Varying User Preferences in Streaming Recommendation. (**CIKM 2023**) ***Chenglei Shen***, Xiao Zhang, Wei Wei, Jun Xu.
-* Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in Streaming Recommendations.(**TOIS 2024 under review**) ***Chenglei Shen***, Xiao Zhang, Jun Xu. -->
+* 123.
 
 Teaching
 ========
+
 * Teaching Assistant, Retrieval and Recommendation in the Age of Artificial Intelligence, Spring 2024
 
 
