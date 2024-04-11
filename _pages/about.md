@@ -18,7 +18,8 @@ Education
 Publications
 ============
 
-* 
+* Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach. (**SIGIR 2024**) ***Weicong Qin***, Zelin Cao, Weijie Yu, Zihua Si, Sirui Chen, Jun Xu.
+
 
 Teaching
 ========
