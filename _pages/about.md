@@ -21,8 +21,8 @@ Education
 Publications
 ============
 
-* Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach. (**SIGIR 2024**) ***Weicong Qin***, Zelin Cao, Weijie Yu, Zihua Si, Sirui Chen, Jun Xu.
-
+* Qin, Weicong, et al. "Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach." Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2024.
+* Qin, Weicong, et al. "Uncertainty-aware evidential learning for legal case retrieval with noisy correspondence." Information Sciences (2025): 121915.
 
 Teaching
 ========
