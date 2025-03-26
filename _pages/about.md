@@ -15,8 +15,8 @@ He is currently a second-year master's student at [Gaoling School of Artificial 
 Education
 =========
 
-* *09.2023-present* Master's Candidate, Gaoling School of Artificial Intelligence, Renmin University of China.
-* *09.2019-06.2023* B.E., School of Computer Science and Technology, Huazhong University of Science and Technology.
+- *09.2023-present* Master's Candidate, Gaoling School of Artificial Intelligence, Renmin University of China.
+- *09.2019-06.2023* B.E., School of Computer Science and Technology, Huazhong University of Science and Technology.
 
 Publications
 ============
