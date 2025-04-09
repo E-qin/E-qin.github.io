@@ -21,8 +21,12 @@ Education
 Publications
 ============
 
-* Qin, Weicong, et al. "Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach." Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2024.
-* Qin, Weicong, et al. "Uncertainty-aware evidential learning for legal case retrieval with noisy correspondence." Information Sciences (2025): 121915.
+* (**First author**) Qin, Weicong, et al. "Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach." **SIGIR** (2024).
+  + Generative retrieval
+* (**First author**) Qin, Weicong, et al. "Uncertainty-aware evidential learning for legal case retrieval with noisy correspondence." **Information Sciences** (2025): 121915.
+  + Robust dense retrieval (ranking)
+* (**First author**) Qin, Weicong, et al. "MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment." **ACL** [reviewing(444)](https://openreview.net/forum?id=lDrggbrkOs#discussion).
+  + LLM-driven personalized search engine
 
 Teaching
 ========
