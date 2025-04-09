@@ -21,12 +21,14 @@ Education
 Publications
 ============
 
-* (**First author**) "Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach." **SIGIR** (2024).
-  + Generative retrieval
+* (**First author**) "Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach." **SIGIR'24**.
 * (**First author**) "Uncertainty-aware evidential learning for legal case retrieval with noisy correspondence." **Information Sciences** (2025): 121915.
-  + Robust dense retrieval (ranking)
-* (**First author**) "MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment." **ACL** 2025 [reviewing (444)](https://openreview.net/forum?id=lDrggbrkOs#discussion).
-  + LLM-driven personalized search engine
+* (**First author**) "MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment." **ACL'25** [reviewing (444)](https://openreview.net/forum?id=lDrggbrkOs#discussion).
+* (**First author**) "Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration." Arxiv'24.
+* (**First author**) "Exploring the Nexus of Large Language Models and Legal Systems: A Short Survey." Arxiv'24.
+* (**Co-first author**) "Decoding Recommendation Behaviors of In-Context Learning LLMs Through Gradient Descent." Arxiv'24.
+  
+
 
 Teaching
 ========
