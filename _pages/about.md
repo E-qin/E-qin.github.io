@@ -21,7 +21,7 @@ Education
 Publications
 ============
 
-* (**First author**) "MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment." **ACL'25 Long Main**
+* (**First author**) "MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment." **ACL'25 Long Main (Oral)**
 * (**First author**) "Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach." **SIGIR'24 Long Research**.
 * (**First author**) "Uncertainty-aware evidential learning for legal case retrieval with noisy correspondence." **Information Sciences** (2025): 121915.
 * (**First author**) "Legal Document Generative Retrieval in Multi-Law-Code Scenarios" **TKDE under review**.
