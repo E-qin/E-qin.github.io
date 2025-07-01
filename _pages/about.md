@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### ** Job searching in 2025. Open to opportunities! Welcome recruiters/industry peers to connect.**
+### **Job searching in 2025. Open to opportunities! Welcome recruiters/industry peers to connect.**
 
 *"A ship in harbor is safe, but that is not what ships are built for."* -Grace Hopper
 
