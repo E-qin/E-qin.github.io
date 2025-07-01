@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+
+NEWS
+=========
+
 --------------
 ## **Job seeking** now | Class of **2026** Graduate
 ## Strong interest in **Internet Company Talent Programs** 
-## Welcome recruiters/industry peers to connect
+## Welcome recruiters/industry peers to connect (qwc -AT- ruc.edu.cn)
 --------------
+
 
 *"A ship in harbor is safe, but that is not what ships are built for."* -Grace Hopper
 
