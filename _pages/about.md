@@ -20,11 +20,14 @@ NEWS
 =========
 
 --------------
-🎉**Job seeking** now | Class of **2026** Graduate
 
-🎯Strong interest in **Internet Company Talent Programs** 
+👋 **ACL25 Vienna • 28 Jul (Mon) ➤ Oral Pres.** | Look forward to exchanging.
 
-📬Welcome recruiters/industry peers to connect **(qwc -AT- ruc.edu.cn)**
+🎉 **Job seeking** now | Class of **2026** Graduate
+
+🎯 **LLM for Rec & Search**｜Strong interest in **Internet Company Talent Programs** 
+
+📬 Welcome recruiters/industry peers to connect **(qwc -AT- ruc.edu.cn)**
 
 --------------
 
