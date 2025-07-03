@@ -13,7 +13,7 @@ redirect_from:
 *"A ship in harbor is safe, but that is not what ships are built for."* -Grace Hopper
 
 
-He is currently a second-year master's student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/english/index.htm). He is working in [IIR lab](https://ruc-iir-lab.github.io/). His supervisors are AP. [Xiao Zhang](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN&oi=ao) and Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). His major research interests are about **Recommender System, Information Retrieval, LLM for Search or Rec, Generative Retrieval etc.**
+He is currently a second-year master's student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/english/index.htm). He is working in [IIR lab](https://ruc-iir-lab.github.io/). His supervisors are AP. [Xiao Zhang](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN&oi=ao) and Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). His major research interests are about **Information Retrieval, LLM for Search or Recommendation, Generative Retrieval etc.**
 
 
 NEWS
