@@ -19,7 +19,6 @@ He is currently a second-year master's student at [Gaoling School of Artificial 
 NEWS
 =========
 
---------------
 
 👋 **ACL25 Vienna • 28 Jul (Mon) ➤ Oral Pres.** | Look forward to exchanging
 
@@ -29,7 +28,7 @@ NEWS
 
 📬 Welcome recruiters/industry peers to connect **(qwc -AT- ruc.edu.cn)**
 
---------------
+
 
 Education
 =========
