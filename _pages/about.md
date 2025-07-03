@@ -24,7 +24,7 @@ NEWS
 
 🎉 **Job seeking** now | Class of **2026** Graduate
 
-🎯 **LLM for Rec & Search**｜Strong interest in **Talent Programs** of leading companies
+🎯 **Rec & Search with LLM, Generative Retrieval**｜Strong interest in **Talent Programs** of leading companies
 
 📬 Welcome recruiters/industry peers to connect **(qwc -AT- ruc.edu.cn)**
 
