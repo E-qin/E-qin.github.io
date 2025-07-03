@@ -55,11 +55,11 @@ Publications
 All are first-author publications, except the last one which is a co-first-author publication
 
 * **[Search&Rec with LLM]** "MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment." **ACL'25 Long Main (Oral)**
-* **[Generative Retrieval]** "Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach." **SIGIR'24 Long Research**.
+* **[Generative Retrieval]** "Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach." **SIGIR'24 Full Paper**.
+* **[LLM+RL for Rec]** "Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration." **RecSys'24 Full Paper**.
 * **[Retrieval in Noisy data]** "Uncertainty-aware evidential learning for legal case retrieval with noisy correspondence." **Information Sciences** (2025): 121915.
-* **[Search with consultations]** "Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search." **EMNLP'25 Long under review**
-* **[Generative Retrieval with RQ-VAE]** "Legal Document Generative Retrieval in Multi-Law-Code Scenarios" **TKDE under review**.
-* **[LLM+RL for Rec]** "Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration." Arxiv'24.
+* **[Search with consultations]** "Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search." **EMNLP'25 Long Under Review**
+* **[Generative Retrieval with RQ-VAE]** "Legal Document Generative Retrieval in Multi-Law-Code Scenarios" **TKDE Under Review**.
 * **[LLM for Legal Domain]** "Exploring the Nexus of Large Language Models and Legal Systems: A Short Survey." Arxiv'24.
 * **[Theoretical Derivation of LLM4Rec]** "Decoding Recommendation Behaviors of In-Context Learning LLMs Through Gradient Descent." Arxiv'24.
 
