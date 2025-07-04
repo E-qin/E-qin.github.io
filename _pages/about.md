@@ -20,7 +20,7 @@ NEWS
 =========
 
 
-👋 **ACL25 Vienna • 28 Jul (Mon) ➤ Oral Pres.** ｜ Look forward to exchanging
+👋 **ACL25 Vienna • 28 Jul (Mon) ➤ Oral Pres.** ｜ **RecSys25 Prague • 22 Sep ➤ Oral Pres.** ｜ Look forward to exchanging
 
 🎉 **Job seeking** now ｜ Class of **2026** Graduate
 
