@@ -22,9 +22,9 @@ NEWS
 
 👋 **ACL'25 Vienna • 28 Jul (Mon) ➤ Oral Pres.** ｜ **RecSys'25 Prague • 22 Sep ➤ Oral Pres.** ｜ Look forward to exchanging
 
-🎉 **Job seeking** now ｜ Class of **2026** Graduate
+🎉 **Job seeking** now ｜ Class of **2026** Graduate | **Rec & Search with LLM, Generative Retrieval** 
 
-🎯 **Rec & Search with LLM, Generative Retrieval** ｜ Strong interest in **Talent Programs** of leading companies
+🎯 Strong interest in **Talent Programs** of leading companies
 
 📬 Welcome recruiters/industry peers to connect **(qwc -AT- ruc.edu.cn)**
 
