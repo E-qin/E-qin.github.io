@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Weicong Qin"
+title: "Weicong Qin (秦维聪)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
