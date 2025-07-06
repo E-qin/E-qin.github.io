@@ -22,7 +22,7 @@ NEWS
 
 👋 **ACL'25 Vienna • 28 Jul (Mon) ➤ Oral Pres.** ｜ **RecSys'25 Prague • 22 Sep ➤ Oral Pres.** ｜ Look forward to exchanging
 
-🎉 **Job seeking** now ｜ Class of **2026** Graduate | **Rec & Search with LLM, Generative Retrieval** 
+🎉 **Job seeking** now ｜ Class of **2026** Graduate ｜ **Rec & Search with LLM, Generative Retrieval** 
 
 🎯 Strong interest in **Talent Programs** of leading companies
 
