@@ -9,7 +9,7 @@
 locale                   : "Beijing, China"
 title                    : "Weicong Qin / Academic Profile"
 title_separator          : "-"
-name                     : &name "Weicong Qin"
+name                     : &name "Weicong Qin (秦维聪)"
 description              : &description ""
 url                      : https://E-qin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Weicong Qin"
   avatar           : "profile.png"
-  bio              : "M.S. At Renmin University of China"
+  bio              : "M.S. At Renmin University of China | Job Seeking Now"
   location         : "Beijing China"
   employer         :
   pubmed           :
