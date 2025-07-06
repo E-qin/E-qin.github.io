@@ -37,19 +37,6 @@ Education
 - *09.2019-06.2023* B.E., School of Computer Science and Technology, Huazhong University of Science and Technology.
 
 
-Internship
-============
-
-**Lenovo AI Research Institute** | Algorithm Research Intern
-*Mar 2024 - Feb 2023*
-- Developed personalized search & recommendation algorithms using large-scale user data, resulting in **several first/co-first author papers** and **multiple patent applications**.
-
-**ByteDance (TikTok)** | Algorithm Intern
-*Feb 2023 - Jun 2023*
-- User-Generated Content (UGC) Distribution Optimization and Cold-Start Flow Construction: Optimized the content distribution recall and utilized user short-term and long-term interest profiles to better match users with content likely to generate meaningful discussion, significantly improving key engagement metrics post-launch.
-- UGC Cold-Start Flow Construction: Designed and built a UGC cold-start flow to boost initial traffic for new user-generated content, preventing **High-Potential Comment Section** from being buried and fostering a healthier content ecosystem, significantly increasing submissions with informative comments.
-
-
 Publications
 ============
 All are **FIRST-AUTHOR** publications, except the last one which is a **CO-FIRST-AUTHOR** publication
@@ -64,6 +51,20 @@ All are **FIRST-AUTHOR** publications, except the last one which is a **CO-FIRST
 * **[Theoretical Derivation of LLM4Rec]** "Decoding Recommendation Behaviors of In-Context Learning LLMs Through Gradient Descent." Arxiv'24.
 
   
+
+Internship
+============
+
+**Lenovo AI Research Institute** | Algorithm Research Intern
+*Mar 2024 - Feb 2023*
+- Developed personalized search & recommendation algorithms using large-scale user data, resulting in **several first/co-first author papers** and **multiple patent applications**.
+
+**ByteDance (TikTok)** | Algorithm Intern
+*Feb 2023 - Jun 2023*
+- User-Generated Content (UGC) Distribution Optimization and Cold-Start Flow Construction: Optimized the content distribution recall and utilized user short-term and long-term interest profiles to better match users with content likely to generate meaningful discussion, significantly improving key engagement metrics post-launch.
+- UGC Cold-Start Flow Construction: Designed and built a UGC cold-start flow to boost initial traffic for new user-generated content, preventing **High-Potential Comment Section** from being buried and fostering a healthier content ecosystem, significantly increasing submissions with informative comments.
+
+
 
 
 Teaching
