@@ -20,7 +20,7 @@ NEWS
 =========
 
 
-🎤 **ACL'25 Vienna • 28 Jul (Mon) ➤ Oral Pres.** ｜ **RecSys'25 Prague • 22 Sep ➤ Oral Pres.**
+🎤 **ACL'25 Vienna • 28 Jul (Mon) ➤ Oral Pres.** ｜ **RecSys'25 Prague • 22 Sep ➤ Oral Pres.** ｜  **EMNLP'25 Suzhou • 5 Nov (Wed).**
 
 👋 Look forward to exchanging
 
@@ -46,8 +46,8 @@ All are **FIRST-AUTHOR** publications, except the last one which is a **CO-FIRST
 * **[Search&Rec with LLM]** "MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment." **ACL'25 Long Paper Main Conference (Oral)**
 * **[Generative Retrieval]** "Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach." **SIGIR'24 Full Paper (Oral)**.
 * **[LLM+RL for Rec]** "Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration." **RecSys'24 Full Paper Spotlight Oral**.
+* **[Search with consultations]** "Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search." **EMNLP'25 Long Paper Main Conference**
 * **[Retrieval in Noisy data]** "Uncertainty-aware evidential learning for legal case retrieval with noisy correspondence." **Information Sciences** (2025): 121915.
-* **[Search with consultations]** "Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search." **EMNLP'25 Long Paper Under Review**
 * **[Generative Retrieval with RQ-VAE]** "Legal Document Generative Retrieval in Multi-Law-Code Scenarios" **TKDE Under Review**.
 * **[LLM for Legal Domain]** "Exploring the Nexus of Large Language Models and Legal Systems: A Short Survey." Arxiv'24.
 * **[Theoretical Derivation of LLM4Rec]** "Decoding Recommendation Behaviors of In-Context Learning LLMs Through Gradient Descent." Arxiv'24.
