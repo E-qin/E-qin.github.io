@@ -24,7 +24,7 @@ NEWS
 
 👋 Look forward to exchanging
 
-🎉 **Job seeking** now ｜ Class of **2026** Graduate ｜ **Rec & Search with LLM, Generative Retrieval** 
+🎉 **Job seeking** now ｜ **2026** Graduate ｜ **Rec & Search with LLM, Generative Retrieval** 
 
 🎯 Strong interest in **Talent Programs** of leading companies
 
