@@ -41,7 +41,7 @@ Education
 
 Publications
 ============
-All are **FIRST-AUTHOR** publications, except the last one which is a **CO-FIRST-AUTHOR** publication
+All are **FIRST-AUTHOR** publications (2A+3B for now), except the last one which is a **CO-FIRST-AUTHOR** publication
 
 * **[Search&Rec with LLM]** "MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment." **ACL'25 Long Paper Main Conference (Oral)**
 * **[Generative Retrieval]** "Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach." **SIGIR'24 Full Paper (Oral)**.
