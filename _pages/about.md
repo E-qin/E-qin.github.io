@@ -20,7 +20,7 @@ NEWS
 =========
 
 
-🎤 **ACL'25 Vienna • 28 Jul (Mon) ➤ Oral Pres.** ｜ **RecSys'25 Prague • 22 Sep ➤ Oral Pres.** ｜  **EMNLP'25 Suzhou • 5 Nov (Wed).**
+🎤 **ACL'25 Vienna • 28 Jul (Mon) ➤ Oral Pres.** ｜ **RecSys'25 Prague • 22 Sep ➤ Oral Pres.** ｜  **EMNLP'25 Suzhou • 5 Nov ➤ Oral Pres.**
 
 👋 Look forward to exchanging
 
