@@ -28,7 +28,7 @@ NEWS
 
 🎯 Strong interest in **Talent Programs** of leading companies
 
-📬 Welcome recruiters/industry peers to connect **(qwc -AT- ruc.edu.cn)**
+📬 Welcome recruiters/industry peers to connect **(Email: qwc -AT- ruc.edu.cn)**
 
 
 
