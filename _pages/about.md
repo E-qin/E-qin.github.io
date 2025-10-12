@@ -46,7 +46,7 @@ All are **FIRST-AUTHOR** publications (2A+3B for now), except the last one which
 * **[Search&Rec with LLM]** "MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment." **ACL'25 Long Paper Main Conference (Oral)**
 * **[Generative Retrieval]** "Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach." **SIGIR'24 Full Paper (Oral)**.
 * **[LLM+RL for Rec]** "Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration." **RecSys'24 Full Paper Spotlight Oral**.
-* **[Search with consultations]** "Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search." **EMNLP'25 Long Paper Main Conference**
+* **[Search with consultations]** "Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search." **EMNLP'25 Long Paper Main Conference Oral**
 * **[Retrieval in Noisy data]** "Uncertainty-aware evidential learning for legal case retrieval with noisy correspondence." **Information Sciences** (2025): 121915.
 * **[Generative Retrieval with RQ-VAE]** "Legal Document Generative Retrieval in Multi-Law-Code Scenarios" **TOIS Under Review**.
 * **[LLM for Legal Domain]** "Exploring the Nexus of Large Language Models and Legal Systems: A Short Survey." Arxiv'24.
