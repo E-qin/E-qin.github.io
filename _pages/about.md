@@ -13,7 +13,7 @@ redirect_from:
 *"A ship in harbor is safe, but that is not what ships are built for."* -Grace Hopper
 
 
-He is currently a second-year master's student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/english/index.htm). He is working in [RUC-IIR-lab](https://ruc-iir-lab.github.io/). His supervisors are AP. [Xiao Zhang](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN&oi=ao) and Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). His major research interests are about **Rec & Search with LLM, Generative Retrieval etc.**
+He is currently a second-year master's student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/english/index.htm). He is working in [RUC-IIR-lab](https://ruc-iir-lab.github.io/). His supervisor is Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). His major research interests are about **Rec & Search with LLM, Generative Retrieval etc.**
 
 
 NEWS
@@ -45,7 +45,7 @@ All are **FIRST-AUTHOR** publications (2A+3B for now), except the last one which
 
 * **[Search&Rec with LLM]** "MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment." **ACL'25 Long Paper Main Conference (Oral)**
 * **[Generative Retrieval]** "Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach." **SIGIR'24 Full Paper (Oral)**.
-* **[LLM+RL for Rec]** "Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration." **RecSys'24 Full Paper (Oral)**.
+* **[LLM+RL for Rec]** "Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration." **RecSys'25 Full Paper (Spotlight Oral, ~4%)**.
 * **[Search with consultations]** "Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search." **EMNLP'25 Long Paper Main Conference (Oral)**
 * **[Retrieval in Noisy data]** "Uncertainty-aware evidential learning for legal case retrieval with noisy correspondence." **Information Sciences** (2025): 121915.
 * **[Generative Retrieval with RQ-VAE]** "Legal Document Generative Retrieval in Multi-Law-Code Scenarios" **TOIS Under Review**.
@@ -58,11 +58,11 @@ Internship
 ============
 
 **Lenovo AI Research Institute** | Algorithm Research Intern
-*Mar 2024 - Feb 2023*
+*Mar 2024 - Feb 2025*
 - Developed personalized search & recommendation algorithms using large-scale user data, resulting in **several first/co-first author papers** and **multiple patent applications**.
 
 **ByteDance (TikTok)** | Algorithm Intern
-*Feb 2023 - Jun 2023*
+*Feb 2025 - Jun 2025*
 - User-Generated Content (UGC) Distribution Optimization and Cold-Start Flow Construction: Optimized the content distribution recall and utilized user short-term and long-term interest profiles to better match users with content likely to generate meaningful discussion, significantly improving key engagement metrics post-launch.
 - UGC Cold-Start Flow Construction: Designed and built a UGC cold-start flow to boost initial traffic for new user-generated content, preventing **High-Potential Comment Section** from being buried and fostering a healthier content ecosystem, significantly increasing submissions with informative comments.
 
