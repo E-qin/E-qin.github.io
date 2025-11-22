@@ -75,9 +75,10 @@ Teaching
 Honor
 =====
 
+* National Scholarship for Graduate Students
+* National Scholarship for Undergraduate Students
 * The First Award of Graduate Study Scholarship in Gaoling School of Artificial Intelligence, Renmin University of China
 * Outstanding Graduate in Huazhong University of Science and Technology
 * Honours Bachelor in Huazhong University of Science and Technology
-* National Scholarship for Undergraduate Students
 * National Encouragement scholarship in Huazhong University of Science and Technology
 * Merit Student Scholarship in Huazhong University of Science and Technology
