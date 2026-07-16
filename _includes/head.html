@@ -2,6 +2,13 @@
 
 <meta charset="utf-8">
 
+<!--
+  Defense in depth: this site intentionally executes only same-origin scripts.
+  Keep this policy ahead of every script tag so an accidentally reintroduced
+  third-party loader is blocked by the browser.
+-->
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src 'none'">
+
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
