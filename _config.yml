@@ -6,18 +6,19 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Beijing, China"
-title                    : "Weicong Qin / Academic Profile"
+locale                   : "en-US"
+title                    : "Weicong Qin (秦维聪)"
+masthead_title           : "WQ / 秦维聪"
 title_separator          : "-"
 name                     : &name "Weicong Qin (秦维聪)"
-description              : &description ""
-url                      : https://E-qin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Recommendation, search, large language models, and generative retrieval."
+url                      : https://e-qin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "E-qin/E-qin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -66,14 +67,17 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Weicong Qin"
+  links:
+    - "https://github.com/E-qin"
+    - "https://scholar.google.com/citations?user=PhghkCYAAAAJ"
+    - "https://orcid.org/0009-0007-2904-9616"
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,9 +86,9 @@ analytics:
 author:
   name             : "Weicong Qin (秦维聪)"
   avatar           : "profile.png"
-  bio              : "M.S. At Renmin University of China | Job Seeking Now"
-  location         : "Beijing China"
-  employer         :
+  bio              : "Recommendation · Search · LLMs"
+  location         : "China"
+  employer         : "Xiaohongshu"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=PhghkCYAAAAJ"
   email            : "qwc@ruc.edu.cn"
@@ -119,9 +123,7 @@ author:
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
-  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -130,10 +132,12 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
+  - CONTRIBUTING.md
   - Capfile
   - Gemfile
   - Gruntfile.js
   - LICENSE
+  - README.md
   - README
   - Rakefile
   - assets/js/_main.js
@@ -144,6 +148,12 @@ exclude:
   - log
   - node_modules
   - package.json
+  - files
+  - markdown_generator
+  - _posts
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
   - tmp
   - vendor
 keep_files:
@@ -176,21 +186,26 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
+  # Hide all legacy template pages unless explicitly published in front matter.
+  - scope:
+      path: "_pages"
+    values:
+      published: false
   # _posts
   - scope:
       path: ""
@@ -255,7 +270,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

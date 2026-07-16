@@ -1,4 +1,15 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+  (function () {
+    var navButton = document.querySelector('#site-nav button');
+    var hiddenLinks = document.querySelector('#site-nav .hidden-links');
+    if (!navButton || !hiddenLinks) return;
+    navButton.addEventListener('click', function () {
+      navButton.setAttribute('aria-expanded', String(!hiddenLinks.classList.contains('hidden')));
+    });
+  }());
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

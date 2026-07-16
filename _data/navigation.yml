@@ -1,22 +1,16 @@
-# main links links
+# Single-page navigation
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Research"
+    url: /#research
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Publications"
+    url: /#publications
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Experience"
+    url: /#experience
+
+  - title: "Recognition"
+    url: /#recognition
+
+  - title: "Contact"
+    url: /#contact
