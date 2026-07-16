@@ -3,7 +3,9 @@
 <div class="page__footer-follow">
   <ul class="social-icons" aria-label="Profile links">
     <li><strong>Weicong Qin · 秦维聪</strong></li>
-    <li><a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+    {% if site.author.email_display %}
+      <li><span class="page__footer-email"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.author.email_display }}</span></li>
+    {% endif %}
     <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     <li><a href="{{ site.author.googlescholar }}"><i class="ai ai-google-scholar" aria-hidden="true"></i> Scholar</a></li>
     <li><a href="{{ site.author.orcid }}"><i class="ai ai-orcid" aria-hidden="true"></i> ORCID</a></li>

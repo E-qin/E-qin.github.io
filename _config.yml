@@ -41,7 +41,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "qwc@ruc.edu.cn"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -91,7 +91,8 @@ author:
   employer         : "Xiaohongshu"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=PhghkCYAAAAJ"
-  email            : "qwc@ruc.edu.cn"
+  email            :
+  email_display    : "q-zeus [AT] foxmail [DOT] com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

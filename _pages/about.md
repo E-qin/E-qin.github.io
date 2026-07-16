@@ -12,82 +12,38 @@ redirect_from:
 
 <main id="main-content" class="portfolio-home" role="main" itemscope itemtype="https://schema.org/Person">
   <section class="home-hero" id="about" aria-labelledby="intro-title">
+    <div class="home-hero__photo">
+      <img src="/images/profile.png" alt="Portrait of Weicong Qin" width="240" height="240">
+    </div>
     <div class="home-hero__copy">
-      <p class="eyebrow"><span class="eyebrow__dot" aria-hidden="true"></span> Weicong Qin · 秦维聪</p>
-      <h1 id="intro-title">Search, recommendation, and the intent in between.</h1>
+      <h1 id="intro-title" itemprop="name">Weicong Qin <span>秦维聪</span></h1>
+      <p class="home-hero__role">Community Recommendation · Xiaohongshu</p>
       <p class="home-hero__lead">
-        I am a researcher and practitioner working on <strong>recommendation, search, and large language models</strong>.
-        I recently completed my M.S. in Artificial Intelligence at Renmin University of China and am joining
-        <strong>Xiaohongshu</strong>, working with an innovation-focused team on community recommendation.
+        I currently work at <strong>Xiaohongshu</strong> on community recommendation in an innovation-focused team.
+        I received my M.S. in Artificial Intelligence from Renmin University of China in 2026, advised by Prof. Jun Xu.
       </p>
-      <p class="home-hero__support">
-        My work explores how real-world systems can better understand latent user needs, learn from complex
-        interaction histories, and make discovery more useful and dependable.
-      </p>
-      <div class="home-actions" aria-label="Profile links">
-        <a class="home-button home-button--primary" href="mailto:qwc@ruc.edu.cn">Get in touch <span aria-hidden="true">↗</span></a>
-        <a class="home-button" href="https://scholar.google.com/citations?user=PhghkCYAAAAJ">Google Scholar</a>
-        <a class="home-button" href="https://github.com/E-qin">GitHub</a>
+      <div class="home-links" aria-label="Profile links">
+        <span>Email: {{ site.author.email_display }}</span>
+        <a href="https://scholar.google.com/citations?user=PhghkCYAAAAJ">[Google Scholar]</a>
+        <a href="https://github.com/E-qin">[GitHub]</a>
+        <a href="https://orcid.org/0009-0007-2904-9616">[ORCID]</a>
       </div>
     </div>
-
-    <aside class="profile-card" aria-label="Profile summary">
-      <div class="profile-card__image-wrap">
-        <img src="/images/profile.png" alt="Portrait of Weicong Qin" width="240" height="240">
-        <span class="profile-card__status"><span aria-hidden="true"></span> M.S. · RUC · 2026</span>
-      </div>
-      <div class="profile-card__body">
-        <p class="profile-card__name" itemprop="name">Weicong Qin <span>秦维聪</span></p>
-        <dl class="profile-facts">
-          <div><dt>Focus</dt><dd>RecSys · Search · LLMs</dd></div>
-          <div><dt>Background</dt><dd>RUC · HUST</dd></div>
-          <div><dt>Contact</dt><dd><a href="mailto:qwc@ruc.edu.cn">qwc@ruc.edu.cn</a></dd></div>
-        </dl>
-      </div>
-    </aside>
   </section>
 
   <section class="home-section" id="research" aria-labelledby="research-title">
-    <div class="section-heading">
-      <div>
-        <p class="eyebrow">Research agenda</p>
-        <h2 id="research-title">Understanding intent, improving discovery.</h2>
-      </div>
-      <p>
-        I study the space between what users explicitly say and what they actually need, with a focus on methods
-        that remain effective under real-world scale, noise, and changing preferences.
-      </p>
-    </div>
-
-    <div class="research-grid">
-      <article class="research-card">
-        <span class="research-card__number">01</span>
-        <h3>LLM-powered search & recommendation</h3>
-        <p>Using consultations, reflections, and language-model reasoning to capture motivations that clicks and queries alone cannot express.</p>
-        <span class="tag-row"><span>Personalization</span><span>LLM4Rec</span></span>
-      </article>
-      <article class="research-card">
-        <span class="research-card__number">02</span>
-        <h3>Generative retrieval</h3>
-        <p>Connecting structured generation with retrieval so systems can reason over documents while retaining stronger control and transparency.</p>
-        <span class="tag-row"><span>Retrieval</span><span>Generation</span></span>
-      </article>
-      <article class="research-card">
-        <span class="research-card__number">03</span>
-        <h3>Reliable real-world learning</h3>
-        <p>Modeling noisy correspondence, uncertain supervision, and the gap between semantic relevance and genuine user value.</p>
-        <span class="tag-row"><span>Robustness</span><span>User value</span></span>
-      </article>
-    </div>
+    <h2 id="research-title">Research Interests</h2>
+    <p class="research-summary">
+      I am interested in understanding user intent and learning from real-world interaction data. My current work
+      focuses on personalized recommendation and search, LLMs for recommendation and retrieval, generative retrieval,
+      and robust learning with noisy supervision.
+    </p>
   </section>
 
   <section class="home-section" id="publications" aria-labelledby="publications-title">
-    <div class="section-heading section-heading--compact">
-      <div>
-        <p class="eyebrow">Selected publications</p>
-        <h2 id="publications-title">Research, in context.</h2>
-      </div>
-      <a class="section-link" href="https://scholar.google.com/citations?user=PhghkCYAAAAJ">Full publication profile <span aria-hidden="true">↗</span></a>
+    <div class="section-title-row">
+      <h2 id="publications-title">Selected Publications</h2>
+      <a class="section-link" href="https://scholar.google.com/citations?user=PhghkCYAAAAJ">[Full list]</a>
     </div>
 
     <div class="publication-list">
@@ -154,21 +110,15 @@ redirect_from:
   </section>
 
   <section class="home-section" id="experience" aria-labelledby="experience-title">
-    <div class="section-heading">
-      <div>
-        <p class="eyebrow">Experience</p>
-        <h2 id="experience-title">Research that meets the real world.</h2>
-      </div>
-      <p>My path moves between academic questions and production systems, with recommendation and search as the connecting thread.</p>
-    </div>
+    <h2 id="experience-title">Experience</h2>
 
     <div class="timeline">
       <article class="timeline-item timeline-item--current">
-        <div class="timeline-item__date">2026—</div>
+        <div class="timeline-item__date">2026—Present</div>
         <div class="timeline-item__body">
           <p class="timeline-item__org">Xiaohongshu · 小红书</p>
           <h3>Community recommendation</h3>
-          <p>Joining an innovation-focused team working on recommendation research and product ideas for a large-scale content community.</p>
+          <p>Work in an innovation-focused team on recommendation research and product development for a large-scale content community.</p>
         </div>
       </article>
       <article class="timeline-item">
@@ -188,34 +138,14 @@ redirect_from:
         </div>
       </article>
     </div>
+    <p class="recruitment-note">
+      <strong>2026 graduate recruitment.</strong> I received offers through Tencent Qingyun Plan, ByteDance Soaring Star,
+      Alibaba Taotian T-Star, JD.com TGT (Tech Genius Team), Kuaishou 快Star-X, and Xiaohongshu REDstar, and joined Xiaohongshu.
+    </p>
   </section>
 
-  <section class="home-section" id="recognition" aria-labelledby="recognition-title">
-    <div class="talent-panel">
-      <div class="talent-panel__intro">
-        <p class="eyebrow eyebrow--light">Industry recognition · 2026 graduate recruiting</p>
-        <h2 id="recognition-title">One deliberate choice.</h2>
-        <p>
-          I received offers from six selective graduate talent programs and chose Xiaohongshu, where I can keep
-          working at the intersection of research, recommendation, and product impact.
-        </p>
-      </div>
-      <div class="talent-programs" aria-label="Graduate talent program offers">
-        <div><span>Tencent</span><strong>Qingyun Plan</strong></div>
-        <div><span>ByteDance</span><strong>Soaring Star</strong></div>
-        <div><span>Alibaba Taotian</span><strong>T-Star</strong></div>
-        <div><span>JD.com</span><strong>TGT · Tech Genius Team</strong></div>
-        <div><span>Kuaishou</span><strong>快Star-X</strong></div>
-        <div class="talent-programs__selected"><span>Xiaohongshu · Selected</span><strong>REDstar</strong></div>
-      </div>
-    </div>
-  </section>
-
-  <section class="home-section home-section--split" id="education" aria-labelledby="education-title">
-    <div>
-      <p class="eyebrow">Education</p>
-      <h2 id="education-title">A foundation in AI and computer science.</h2>
-    </div>
+  <section class="home-section" id="education" aria-labelledby="education-title">
+    <h2 id="education-title">Education</h2>
     <div class="education-list">
       <article>
         <span>2023—2026</span>
@@ -230,26 +160,24 @@ redirect_from:
     </div>
   </section>
 
-  <section class="home-section recognition" aria-labelledby="honors-title">
-    <div>
-      <p class="eyebrow">Honors & service</p>
-      <h2 id="honors-title">Selected milestones.</h2>
-    </div>
-    <div class="recognition-grid">
-      <div><strong>2×</strong><span>National Scholarship · graduate and undergraduate</span></div>
-      <div><strong>3</strong><span>Oral presentations at ACL, RecSys, and EMNLP in 2025</span></div>
-      <div><strong>TA</strong><span>Retrieval and Recommendation in the Age of Artificial Intelligence · Spring 2024</span></div>
+  <section class="home-section" id="honors" aria-labelledby="honors-title">
+    <h2 id="honors-title">Honors</h2>
+    <div class="recognition-list">
+      <div>
+        <h3>National Scholarship · 国家奖学金</h3>
+        <p>Two-time recipient, undergraduate and graduate.</p>
+      </div>
+      <div>
+        <h3>Outstanding Graduate of Beijing · 北京市优秀毕业生</h3>
+      </div>
     </div>
   </section>
 
   <section class="contact-panel" id="contact" aria-labelledby="contact-title">
-    <div>
-      <p class="eyebrow eyebrow--light">Research · collaboration · exchange</p>
-      <h2 id="contact-title">Let’s make discovery more useful.</h2>
-    </div>
+    <h2 id="contact-title">Contact</h2>
     <div class="contact-panel__action">
       <p>I am always glad to discuss research ideas, recommendation systems, and practical collaboration.</p>
-      <a href="mailto:qwc@ruc.edu.cn">qwc@ruc.edu.cn <span aria-hidden="true">↗</span></a>
+      <span class="contact-email">{{ site.author.email_display }}</span>
     </div>
   </section>
 

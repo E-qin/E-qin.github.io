@@ -7,6 +7,7 @@ ROOT = File.expand_path("..", __dir__)
 SITE_DIR = File.join(ROOT, "_site")
 SOURCE_EXTENSIONS = %w[.html .md .yml .yaml .js .scss .css].freeze
 BANNED_SERVICE = /polyfill[.]io/i
+BANNED_EMAILS = /(?:qwc\x40ruc[.]edu[.]cn|q-zeus\x40foxmail[.]com)/i
 SAME_ORIGIN = %r{\A(?:/|https://e-qin[.]github[.]io/)}i
 
 errors = []
@@ -18,6 +19,7 @@ Dir.glob(File.join(ROOT, "**", "*"), File::FNM_DOTMATCH).each do |path|
 
   File.foreach(path).with_index(1) do |line, number|
     errors << "#{path.delete_prefix(ROOT + "/")}:#{number}: banned Polyfill.io reference" if line.match?(BANNED_SERVICE)
+    errors << "#{path.delete_prefix(ROOT + "/")}:#{number}: unobfuscated contact email" if line.match?(BANNED_EMAILS)
   end
 end
 
@@ -36,7 +38,7 @@ Dir.glob(File.join(SITE_DIR, "**", "*.html")).each do |path|
 end
 
 if errors.empty?
-  puts "Security check passed: no Polyfill.io references or third-party executable scripts."
+  puts "Security check passed: no Polyfill.io references, exposed contact email, or third-party executable scripts."
 else
   warn errors.join("\n")
   exit 1
