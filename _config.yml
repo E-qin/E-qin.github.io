@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weicong Qin (秦维聪)"
-masthead_title           : "WQ / 秦维聪"
+title                    : "Weicong Qin"
+masthead_title           : "Weicong Qin"
 title_separator          : "-"
-name                     : &name "Weicong Qin (秦维聪)"
+name                     : &name "Weicong Qin"
 description              : &description "Recommendation, search, large language models, and generative retrieval."
 url                      : https://e-qin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Weicong Qin (秦维聪)"
+  name             : "Weicong Qin"
   avatar           : "profile.png"
   bio              : "Recommendation · Search · LLMs"
   location         : "China"

@@ -150,12 +150,6 @@ button:focus-visible {
   line-height: 1.2;
 }
 
-.home-hero h1 span {
-  margin-left: 0.25rem;
-  font-size: 0.72em;
-  font-weight: 600;
-}
-
 .home-hero__role {
   margin: 0 0 1rem;
   color: var(--home-muted);
@@ -167,6 +161,18 @@ button:focus-visible {
   margin: 0 0 0.65rem;
   color: var(--home-ink);
   line-height: 1.55;
+}
+
+.home-ranking-note {
+  max-width: 46rem;
+  margin: 0.7rem 0 0;
+  color: #777;
+  font-size: 0.77rem;
+  line-height: 1.45;
+}
+
+.home-ranking-note a {
+  color: #60758b;
 }
 
 .home-links {

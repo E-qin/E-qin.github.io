@@ -16,14 +16,16 @@ redirect_from:
       <img src="/images/profile.png" alt="Portrait of Weicong Qin" width="240" height="240">
     </div>
     <div class="home-hero__copy">
-      <h1 id="intro-title" itemprop="name">Weicong Qin <span>秦维聪</span></h1>
-      <p class="home-hero__role">Community Recommendation · Xiaohongshu</p>
+      <h1 id="intro-title" itemprop="name">Weicong Qin</h1>
+      <p class="home-hero__role">Algorithm Researcher &amp; Engineer · Xiaohongshu</p>
       <p class="home-hero__lead">
-        I currently work at <strong>Xiaohongshu</strong> on community recommendation in an innovation-focused team.
+        I currently work at <strong>Xiaohongshu</strong> as an algorithm researcher and engineer in an innovation-focused team.
         I received my M.S. in Artificial Intelligence from the
         <strong><a href="https://ai.ruc.edu.cn/">Gaoling School of Artificial Intelligence (GSAI)</a></strong>,
         <a href="https://www.ruc.edu.cn/">Renmin University of China (RUC)</a>, in 2026, where I was a member of the
         <a href="https://ruc-iir-lab.github.io/">RUC-IIR Lab</a> and was advised by Prof. Jun Xu.
+      </p>
+      <p class="home-ranking-note">
         In CSRankings' <em>The Web &amp; Information Retrieval</em> area, RUC ranked
         <a href="https://csrankings.org/#/fromyear/2025/toyear/2025/index?inforet&amp;world">No. 1 worldwide in 2025</a>,
         <a href="https://csrankings.org/#/fromyear/2024/toyear/2024/index?inforet&amp;world">No. 2 in 2024</a>, and
@@ -50,9 +52,10 @@ redirect_from:
   <section class="home-section" id="research" aria-labelledby="research-title">
     <h2 id="research-title">Research Interests</h2>
     <p class="research-summary">
-      I am interested in understanding user intent and learning from real-world interaction data. My current work
-      focuses on personalized recommendation and search, LLMs for recommendation and retrieval, generative retrieval,
-      and robust learning with noisy supervision.
+      My previous research examined user intent, personalized recommendation and search, LLMs for recommendation
+      and retrieval, generative retrieval, and robust learning from noisy supervision. My current interests center on
+      scaling recommendation models, exploring next-generation paradigms for recommender systems, and developing
+      user-personalized large language models.
     </p>
   </section>
 
@@ -132,8 +135,8 @@ redirect_from:
       <article class="timeline-item timeline-item--current">
         <div class="timeline-item__date">2026—Present</div>
         <div class="timeline-item__body">
-          <p class="timeline-item__org">Xiaohongshu · 小红书</p>
-          <h3>Community recommendation</h3>
+          <p class="timeline-item__org">Xiaohongshu</p>
+          <h3>Algorithm Researcher &amp; Engineer</h3>
           <p>Work in an innovation-focused team on recommendation research and product development for a large-scale content community.</p>
         </div>
       </article>
@@ -176,15 +179,15 @@ redirect_from:
     <h2 id="honors-title">Honors</h2>
     <div class="recognition-list">
       <div>
-        <h3>National Scholarship · 国家奖学金</h3>
+        <h3>National Scholarship</h3>
         <p>Two-time recipient, undergraduate and graduate.</p>
       </div>
       <div>
-        <h3>Outstanding Graduate of Beijing · 北京市优秀毕业生</h3>
+        <h3>Outstanding Graduate of Beijing</h3>
       </div>
       <div>
         <h3>Huazhong University of Science and Technology</h3>
-        <p>Honors Bachelor's Degree (荣誉学士) · Outstanding Undergraduate (特优生) · Outstanding Graduate (优秀毕业生)</p>
+        <p>Honors Bachelor's Degree · Outstanding Undergraduate · Outstanding Graduate</p>
       </div>
       <div>
         <h3>Merit Student · 5×</h3>
