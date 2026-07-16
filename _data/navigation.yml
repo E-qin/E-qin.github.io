@@ -12,5 +12,8 @@ main:
   - title: "Honors"
     url: /#honors
 
+  - title: "Academic Services"
+    url: /#services
+
   - title: "Contact"
     url: /#contact

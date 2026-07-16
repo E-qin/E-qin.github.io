@@ -181,6 +181,32 @@ button:focus-visible {
   text-decoration: none;
 }
 
+.recruitment-highlight {
+  padding: 1rem 1.15rem;
+  border: 1px solid #e3d7d8;
+  border-left: 3px solid var(--home-accent);
+  background: #fcf9f9;
+}
+
+.recruitment-highlight h2 {
+  margin: 0 0 0.35rem;
+  color: var(--home-ink);
+  font-family: var(--home-serif);
+  font-size: 1.02rem;
+  font-weight: 700;
+}
+
+.recruitment-highlight p {
+  margin: 0;
+  color: var(--home-muted);
+  font-size: 0.9rem;
+  line-height: 1.52;
+}
+
+.recruitment-highlight strong {
+  color: var(--home-accent);
+}
+
 .home-section {
   padding-top: 2.8rem;
 }
@@ -349,19 +375,6 @@ button:focus-visible {
   line-height: 1.5;
 }
 
-.recruitment-note {
-  margin: 1rem 0 0;
-  padding: 0.85rem 0 0;
-  border-top: 1px dashed var(--home-line);
-  color: var(--home-muted);
-  font-size: 0.9rem;
-  line-height: 1.55;
-}
-
-.recruitment-note strong {
-  color: var(--home-ink);
-}
-
 .education-list,
 .recognition-list {
   border-top: 1px solid var(--home-line);
@@ -414,6 +427,18 @@ button:focus-visible {
   margin: 0.2rem 0 0;
   color: var(--home-muted);
   font-size: 0.86rem;
+}
+
+.service-list {
+  margin: 0;
+  padding: 0.8rem 0 0.8rem 1.2rem;
+  border-top: 1px solid var(--home-line);
+  border-bottom: 1px solid var(--home-line);
+  font-size: 0.9rem;
+}
+
+.service-list li + li {
+  margin-top: 0.5rem;
 }
 
 .contact-panel {

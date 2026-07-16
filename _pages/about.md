@@ -20,7 +20,14 @@ redirect_from:
       <p class="home-hero__role">Community Recommendation · Xiaohongshu</p>
       <p class="home-hero__lead">
         I currently work at <strong>Xiaohongshu</strong> on community recommendation in an innovation-focused team.
-        I received my M.S. in Artificial Intelligence from Renmin University of China in 2026, advised by Prof. Jun Xu.
+        I received my M.S. in Artificial Intelligence from the
+        <strong><a href="https://ai.ruc.edu.cn/">Gaoling School of Artificial Intelligence (GSAI)</a></strong>,
+        <a href="https://www.ruc.edu.cn/">Renmin University of China (RUC)</a>, in 2026, where I was a member of the
+        <a href="https://ruc-iir-lab.github.io/">RUC-IIR Lab</a> and was advised by Prof. Jun Xu.
+        In CSRankings' <em>The Web &amp; Information Retrieval</em> area, RUC ranked
+        <a href="https://csrankings.org/#/fromyear/2025/toyear/2025/index?inforet&amp;world">No. 1 worldwide in 2025</a>,
+        <a href="https://csrankings.org/#/fromyear/2024/toyear/2024/index?inforet&amp;world">No. 2 in 2024</a>, and
+        <a href="https://csrankings.org/#/fromyear/2021/toyear/2023/index?inforet&amp;world">No. 3 over 2021–2023</a>.
       </p>
       <div class="home-links" aria-label="Profile links">
         <span>Email: {{ site.author.email_display }}</span>
@@ -29,6 +36,15 @@ redirect_from:
         <a href="https://orcid.org/0009-0007-2904-9616">[ORCID]</a>
       </div>
     </div>
+  </section>
+
+  <section class="recruitment-highlight" aria-labelledby="recruitment-title">
+    <h2 id="recruitment-title">2026 Graduate Recruitment</h2>
+    <p>
+      I received offers through Tencent Qingyun Plan, ByteDance Soaring Star, Alibaba Taotian T-Star,
+      JD.com TGT (Tech Genius Team), Kuaishou 快Star-X, and <strong>Xiaohongshu REDstar</strong>,
+      and joined Xiaohongshu.
+    </p>
   </section>
 
   <section class="home-section" id="research" aria-labelledby="research-title">
@@ -138,10 +154,6 @@ redirect_from:
         </div>
       </article>
     </div>
-    <p class="recruitment-note">
-      <strong>2026 graduate recruitment.</strong> I received offers through Tencent Qingyun Plan, ByteDance Soaring Star,
-      Alibaba Taotian T-Star, JD.com TGT (Tech Genius Team), Kuaishou 快Star-X, and Xiaohongshu REDstar, and joined Xiaohongshu.
-    </p>
   </section>
 
   <section class="home-section" id="education" aria-labelledby="education-title">
@@ -155,7 +167,7 @@ redirect_from:
       <article>
         <span>2019—2023</span>
         <h3>B.E. in Computer Science and Technology</h3>
-        <p>Huazhong University of Science and Technology · Honours Bachelor · Outstanding Graduate</p>
+        <p>Huazhong University of Science and Technology · Honors Bachelor's Degree · Outstanding Graduate</p>
       </article>
     </div>
   </section>
@@ -170,7 +182,23 @@ redirect_from:
       <div>
         <h3>Outstanding Graduate of Beijing · 北京市优秀毕业生</h3>
       </div>
+      <div>
+        <h3>Huazhong University of Science and Technology</h3>
+        <p>Honors Bachelor's Degree (荣誉学士) · Outstanding Undergraduate (特优生) · Outstanding Graduate (优秀毕业生)</p>
+      </div>
+      <div>
+        <h3>Merit Student · 5×</h3>
+        <p>Awarded in all three undergraduate years and both graduate years.</p>
+      </div>
     </div>
+  </section>
+
+  <section class="home-section" id="services" aria-labelledby="services-title">
+    <h2 id="services-title">Academic Services</h2>
+    <ul class="service-list">
+      <li><strong>Program Committee / Reviewer:</strong> CIKM 2024, CIKM 2025, AAAI 2026</li>
+      <li><strong>Secondary Reviewer:</strong> EMNLP 2024, NeurIPS 2024, ICML 2025, ACL 2025, NeurIPS 2025, TOIS</li>
+    </ul>
   </section>
 
   <section class="contact-panel" id="contact" aria-labelledby="contact-title">
