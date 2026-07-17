@@ -172,6 +172,31 @@ button:focus-visible {
   object-fit: cover;
 }
 
+.home-profile-links {
+  display: grid;
+  gap: 0.2rem;
+  margin-top: 0.62rem;
+  color: var(--home-muted);
+  font-family: var(--home-sans);
+  font-size: 0.72rem;
+  line-height: 1.4;
+}
+
+.home-profile-email {
+  display: grid;
+  gap: 0.02rem;
+}
+
+.home-profile-email span:last-child {
+  overflow-wrap: anywhere;
+}
+
+.home-profile-links a {
+  width: max-content;
+  max-width: 100%;
+  text-decoration: none;
+}
+
 .home-hero h1 {
   margin: 0 0 0.35rem;
   color: var(--home-ink);
@@ -209,17 +234,29 @@ button:focus-visible {
   color: #607583;
 }
 
-.home-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.25rem 0.7rem;
-  margin-top: 0.75rem;
-  font-family: var(--home-sans);
-  font-size: 0.84rem;
+.home-motto {
+  max-width: 39rem;
+  margin: 0.82rem 0 0;
+  padding: 0 0 0 0.7rem;
+  border-left: 1px solid var(--home-line);
+  color: var(--home-subtle);
+  font-family: var(--home-serif);
+  font-size: 0.78rem;
+  font-style: normal;
+  line-height: 1.5;
 }
 
-.home-links a {
-  text-decoration: none;
+.home-motto p {
+  margin: 0;
+  font-style: italic;
+}
+
+.home-motto footer {
+  margin-top: 0.12rem;
+  color: var(--home-muted);
+  font-family: var(--home-sans);
+  font-size: 0.68rem;
+  font-style: normal;
 }
 
 .recruitment-highlight {
@@ -592,6 +629,11 @@ button:focus-visible {
 
   .home-hero h1 {
     font-size: 1.7rem;
+  }
+
+  .home-profile-links {
+    max-width: 18rem;
+    font-size: 0.74rem;
   }
 
   .home-section {

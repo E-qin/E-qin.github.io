@@ -12,8 +12,16 @@ redirect_from:
 
 <main id="main-content" class="portfolio-home" role="main" itemscope itemtype="https://schema.org/Person">
   <section class="home-hero" id="about" aria-labelledby="intro-title">
-    <div class="home-hero__photo">
-      <img src="/images/profile.png" alt="Portrait of Weicong Qin" width="240" height="240">
+    <div class="home-hero__profile">
+      <div class="home-hero__photo">
+        <img src="/images/profile.png" alt="Portrait of Weicong Qin" width="240" height="240">
+      </div>
+      <div class="home-profile-links" aria-label="Profile links">
+        <span class="home-profile-email"><span>Email:</span><span>{{ site.author.email_display }}</span></span>
+        <a href="https://scholar.google.com/citations?user=PhghkCYAAAAJ">[Google Scholar]</a>
+        <a href="https://github.com/E-qin">[GitHub]</a>
+        <a href="https://orcid.org/0009-0007-2904-9616">[ORCID]</a>
+      </div>
     </div>
     <div class="home-hero__copy">
       <h1 id="intro-title" itemprop="name">Weicong Qin</h1>
@@ -32,12 +40,10 @@ redirect_from:
         <a href="https://csrankings.org/#/fromyear/2024/toyear/2024/index?inforet&amp;world">No. 2 in 2024</a>, and
         <a href="https://csrankings.org/#/fromyear/2021/toyear/2023/index?inforet&amp;world">No. 3 over 2021–2023</a>.
       </p>
-      <div class="home-links" aria-label="Profile links">
-        <span>Email: {{ site.author.email_display }}</span>
-        <a href="https://scholar.google.com/citations?user=PhghkCYAAAAJ">[Google Scholar]</a>
-        <a href="https://github.com/E-qin">[GitHub]</a>
-        <a href="https://orcid.org/0009-0007-2904-9616">[ORCID]</a>
-      </div>
+      <blockquote class="home-motto">
+        <p>“A ship in harbor is safe, but that is not what ships are built for.”</p>
+        <footer>— John A. Shedd</footer>
+      </blockquote>
     </div>
   </section>
 
