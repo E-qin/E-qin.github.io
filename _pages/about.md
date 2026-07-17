@@ -17,13 +17,14 @@ redirect_from:
     </div>
     <div class="home-hero__copy">
       <h1 id="intro-title" itemprop="name">Weicong Qin</h1>
-      <p class="home-hero__role">Algorithm Researcher &amp; Engineer · Xiaohongshu</p>
+      <p class="home-hero__role">Algorithm Researcher &amp; Engineer · Xiaohongshu (RedNote)</p>
       <p class="home-hero__lead">
         I currently work at <strong>Xiaohongshu</strong> as an algorithm researcher and engineer in an innovation-focused team.
         I received my M.S. in Artificial Intelligence from the
         <strong><a href="https://ai.ruc.edu.cn/">Gaoling School of Artificial Intelligence (GSAI)</a></strong>,
         <a href="https://www.ruc.edu.cn/">Renmin University of China (RUC)</a>, in 2026, where I was a member of the
-        <a href="https://ruc-iir-lab.github.io/">RUC-IIR Lab</a> and was advised by Prof. Jun Xu.
+        <a href="https://ruc-iir-lab.github.io/">RUC-IIR Lab</a> and was advised by
+        <a href="https://gsai.ruc.edu.cn/~junxu">Prof. Jun Xu</a>.
       </p>
       <p class="home-ranking-note">
         In CSRankings' <em>The Web &amp; Information Retrieval</em> area, RUC ranked
@@ -43,8 +44,8 @@ redirect_from:
   <section class="recruitment-highlight" aria-labelledby="recruitment-title">
     <h2 id="recruitment-title">2026 Graduate Recruitment</h2>
     <p>
-      I received offers through Tencent Qingyun Plan, ByteDance Soaring Star, Alibaba Taotian T-Star,
-      JD.com TGT (Tech Genius Team), Kuaishou Kstar-X, and <strong>Xiaohongshu REDstar</strong>,
+      I received offers through Tencent Qingyun Plan, ByteDance (TikTok) Soaring Star, Alibaba Taotian T-Star,
+      JD.com TGT (Tech Genius Team), Kuaishou Kstar-X, and Xiaohongshu (RedNote) REDstar,
       and joined Xiaohongshu.
     </p>
   </section>
@@ -143,7 +144,7 @@ redirect_from:
       <article class="timeline-item">
         <div class="timeline-item__date">Feb—Jun 2025</div>
         <div class="timeline-item__body">
-          <p class="timeline-item__org">ByteDance</p>
+          <p class="timeline-item__org">ByteDance (TikTok)</p>
           <h3>Algorithm Intern · UGC recommendation</h3>
           <p>Worked on content distribution, long- and short-term interest modeling, and cold-start traffic construction for emerging user-generated content.</p>
         </div>
@@ -165,7 +166,7 @@ redirect_from:
       <article>
         <span>2023—2026</span>
         <h3>M.S. in Artificial Intelligence</h3>
-        <p>Gaoling School of Artificial Intelligence, Renmin University of China · RUC-IIR Lab · Advisor: Prof. Jun Xu</p>
+        <p>Gaoling School of Artificial Intelligence, Renmin University of China · RUC-IIR Lab · Advisor: <a href="https://gsai.ruc.edu.cn/~junxu">Prof. Jun Xu</a></p>
       </article>
       <article>
         <span>2019—2023</span>
