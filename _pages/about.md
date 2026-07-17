@@ -45,7 +45,7 @@ redirect_from:
     <h2 id="recruitment-title">2026 Graduate Recruitment</h2>
     <p>
       I received offers through Tencent Qingyun Plan, ByteDance Soaring Star, Alibaba Taotian T-Star,
-      JD.com TGT (Tech Genius Team), Kuaishou Kstar-X, and Xiaohongshu (RedNote) REDstar,
+      JINGDONG TGT (Tech Genius Team), Kuaishou Kstar-X, and Xiaohongshu (RedNote) REDstar,
       and joined Xiaohongshu.
     </p>
   </section>
