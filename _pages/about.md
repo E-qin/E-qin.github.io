@@ -44,7 +44,7 @@ redirect_from:
   <section class="recruitment-highlight" aria-labelledby="recruitment-title">
     <h2 id="recruitment-title">2026 Graduate Recruitment</h2>
     <p>
-      I received offers through Tencent Qingyun Plan, ByteDance (TikTok) Soaring Star, Alibaba Taotian T-Star,
+      I received offers through Tencent Qingyun Plan, ByteDance Soaring Star, Alibaba Taotian T-Star,
       JD.com TGT (Tech Genius Team), Kuaishou Kstar-X, and Xiaohongshu (RedNote) REDstar,
       and joined Xiaohongshu.
     </p>
@@ -136,7 +136,7 @@ redirect_from:
       <article class="timeline-item timeline-item--current">
         <div class="timeline-item__date">2026—Present</div>
         <div class="timeline-item__body">
-          <p class="timeline-item__org">Xiaohongshu</p>
+          <p class="timeline-item__org">Xiaohongshu (RedNote)</p>
           <h3>Algorithm Researcher &amp; Engineer</h3>
           <p>Work in an innovation-focused team on recommendation research and product development for a large-scale content community.</p>
         </div>
@@ -144,9 +144,9 @@ redirect_from:
       <article class="timeline-item">
         <div class="timeline-item__date">Feb—Jun 2025</div>
         <div class="timeline-item__body">
-          <p class="timeline-item__org">ByteDance (TikTok)</p>
-          <h3>Algorithm Intern · UGC recommendation</h3>
-          <p>Worked on content distribution, long- and short-term interest modeling, and cold-start traffic construction for emerging user-generated content.</p>
+          <p class="timeline-item__org">ByteDance</p>
+          <h3>Algorithm Intern · TikTok Recommendation</h3>
+          <p>Worked on recommendation for UGC, focusing on content distribution, long- and short-term interest modeling, and cold-start traffic construction for emerging content.</p>
         </div>
       </article>
       <article class="timeline-item">
